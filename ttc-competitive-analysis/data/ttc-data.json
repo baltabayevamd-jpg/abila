@@ -1,6 +1,6 @@
 {
-  "last_checked": "2026-10-17",
-  "status": "Auto-update: TTC source page checked",
+  "last_checked": "2026-10-18",
+  "status": "Auto-update: TTC source unavailable, keeping latest manual snapshot (TimeoutError)",
   "source_url": "https://ttc.kz/ru/b2c/",
   "effective_date": "2026-06-01",
   "snapshot_date": "2026-07-24",
