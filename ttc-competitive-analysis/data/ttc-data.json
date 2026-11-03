@@ -1,5 +1,5 @@
 {
-  "last_checked": "2026-11-02",
+  "last_checked": "2026-11-03",
   "status": "Auto-update: TTC source page checked",
   "source_url": "https://ttc.kz/ru/b2c/",
   "effective_date": "2026-06-01",
@@ -64,7 +64,7 @@
       "three_3y": 8499
     }
   ],
-  "source_hash": "0b356075d4998fc93583a647ee804954b573dc36fb51c184ce04fdb82b17b4f0",
+  "source_hash": "f4add733584608574b7b558778326f7ee76c7d8bf57e683379940f7b9e4e9633",
   "source_markers": {
     "has_ttc_box": true,
     "has_discount_promo": true,
